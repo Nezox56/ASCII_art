@@ -1,0 +1,8 @@
+E:\ProjectC#\ASCII_art\bin\Debug\ASCII_art.exe.config
+E:\ProjectC#\ASCII_art\bin\Debug\ASCII_art.exe
+E:\ProjectC#\ASCII_art\bin\Debug\ASCII_art.pdb
+E:\ProjectC#\ASCII_art\obj\Debug\ASCII_art.csproj.AssemblyReference.cache
+E:\ProjectC#\ASCII_art\obj\Debug\ASCII_art.csproj.SuggestedBindingRedirects.cache
+E:\ProjectC#\ASCII_art\obj\Debug\ASCII_art.csproj.CoreCompileInputs.cache
+E:\ProjectC#\ASCII_art\obj\Debug\ASCII_art.exe
+E:\ProjectC#\ASCII_art\obj\Debug\ASCII_art.pdb
